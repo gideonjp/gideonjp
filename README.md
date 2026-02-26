@@ -1,7 +1,7 @@
 # 💫 Cyber Systems & Network Research 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=MORTE&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=GIDEONJP&fontSize=90&animation=fadeIn" />
 </p>
 
 ### 🌌 Professional Overview
